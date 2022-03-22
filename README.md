@@ -27,6 +27,8 @@ We use the information we collect in the following ways:
 
 Provide, operate, and maintain our website and discord bot
 We use the data we have stored to operate the bot's specefic services which is voluntarily enabled
+
+# Notice (Please Read)
 WE DO NOT SHARE ANY OF THE STORED INFORMATION WITH ANY THIRD PARTIES
 
 # How to remove
