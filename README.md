@@ -19,7 +19,7 @@ Channel ids
 Role ids
 
 # Why we need your information
-We need the information described above to provide the basic services we offer to you.
+We need the information described above to provide the basic services we offer to you. Such as Auto-Moderation (Anti-Invites, Anti-Phishing).
 
 
 # How we use your information
