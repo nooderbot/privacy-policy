@@ -32,4 +32,4 @@ We use the data we have stored to operate the bot's specefic services which is v
 WE DO NOT SHARE ANY OF THE STORED INFORMATION WITH ANY THIRD PARTIES
 
 # How to remove
-If user needs to request to be deleted they can email support@nooder.bot or you can personally DM `Tazhys#0001`for data deletion
+If user needs to request to be deleted they can email support@nooder.bot or you can personally DM `Tazhys#0001` for data deletion
